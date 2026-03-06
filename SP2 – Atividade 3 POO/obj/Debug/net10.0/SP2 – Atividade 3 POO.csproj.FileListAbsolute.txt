@@ -1,0 +1,4 @@
+d:\arq\c#\SP2 – Atividade 3 POO\obj\Debug\net10.0\SP2 – Atividade 3 POO.GeneratedMSBuildEditorConfig.editorconfig
+d:\arq\c#\SP2 – Atividade 3 POO\obj\Debug\net10.0\SP2 – Atividade 3 POO.AssemblyInfoInputs.cache
+d:\arq\c#\SP2 – Atividade 3 POO\obj\Debug\net10.0\SP2 – Atividade 3 POO.AssemblyInfo.cs
+d:\arq\c#\SP2 – Atividade 3 POO\obj\Debug\net10.0\SP2 – Atividade 3 POO.csproj.CoreCompileInputs.cache
